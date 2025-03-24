@@ -1,4 +1,6 @@
 ## Hi there 👋
+#My name is Ava and I am currently a first-year student at TUD Grangegorman studying Game Design.
+#This is where you'll find all the different projects and assignments that I have been working on.
 
 <!--
 **Ava-TU/Ava-TU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
